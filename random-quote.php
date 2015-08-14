@@ -1,3 +1,5 @@
+<?php
+
 /*
 Plugin Name: Adam's random quote
 Version: 0.1
